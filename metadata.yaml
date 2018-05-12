@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/524
     wikipedia: http://en.wikipedia.org/wiki/American_Tract_Society
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15782#Scenes-in-Switzerland
 gutenberg_issued: '2005-05-07'
 gutenberg_type: Text
 identifiers:
